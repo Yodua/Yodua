@@ -3,7 +3,7 @@
 **`Front-End developer`**
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-I'm an aspiring front-end developer who tries to put as much as possible into every project that I'm passionate about. I'm getting stuff done relatively quickly. When I run into a bug I can't sleep until I fix it (not very healthy, but what can you do). I like to work in group projects but sometimes it's faster and more efficient to do something on your own.
+##### I'm an aspiring front-end developer who tries to put as much as possible into every project that I'm passionate about. I'm getting stuff done relatively quickly. When I run into a bug I can't sleep until I fix it (not very healthy, but what can you do). I like to work in group projects but sometimes it's faster and more efficient to do something on your own.
 
 
 - 🔭 I'm currently working on **youtube clone** *(solo project)* and **chess in javascript** *(group project)*
