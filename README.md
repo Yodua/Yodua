@@ -6,9 +6,7 @@
 ##### I'm an aspiring front-end developer who tries to put as much as possible into every project that I'm passionate about. I'm getting stuff done relatively quickly. When I run into a bug I can't sleep until I fix it (not very healthy, but what can you do). I like to work in group projects but sometimes it's faster and more efficient to do something on your own.
 
 
-- 🔭 I'm currently working on **youtube clone** *(solo project)* and **chess in javascript** *(group project)*
-
-- 💻 Most used line of code `console.log(why tf r u not working)`
+- 🔭 I'm currently not working on any public projects
 
 - 🐧 Linux distro - **🐉 Garuda** (and also **Arch** on my laptop)
 
