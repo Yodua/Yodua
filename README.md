@@ -1,19 +1,5 @@
 # 🌲 Jakub Jodłowski
 
-**`Front-End developer`**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-
-##### I'm an aspiring front-end developer who tries to put as much as possible into every project that I'm passionate about. I'm getting stuff done relatively quickly. When I run into a bug I can't sleep until I fix it (not very healthy, but what can you do). I like to work in group projects but sometimes it's faster and more efficient to do something on your own.
-
-
-- 🔭 I'm currently not working on any public projects
-
-- 🐧 Linux distro - **Arch (Qtile WM)**
-
-- ⚡ Fun fact **I'm learning to play guitar**
-
-- 📫 Contact me here -  ***jakub.jodlowski.work@gmail.com***
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yodua&label=Profile%20views&color=0e75b6&style=flat" alt="yodua" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jakubjodlowski5" target="blank"><img src="https://img.shields.io/twitter/follow/jakubjodlowski5?logo=twitter&style=for-the-badge" alt="jakubjodlowski5" /></a> </p>
